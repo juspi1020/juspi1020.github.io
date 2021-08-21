@@ -1,0 +1,12 @@
+html,body{
+    color:white;
+    background-color: #21232a;
+    font-family: 'Segoe UI', Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+button{
+    font-size: 1.3rem;
+    padding: 10px;
+    margin: 10px;
+}
